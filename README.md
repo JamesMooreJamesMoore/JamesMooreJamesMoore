@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm James Moore
 
-<!--
-**JamesMooreJamesMoore/JamesMooreJamesMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at CU Boulder learning about Computer Science. I am looking for ways to demonstrate and enhance my skills while gaining experience.
 
-Here are some ideas to get you started:
+## I'm currently workihng on:
+- Computer Science coursework projects
+- Practicing data structures and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+- C++
+## Im looking for:
+- Opportunities to gain experience
+
+## How to reach me:
+- Email: jamo6604@colorado.edu or james.mbc10@gmail.com
+- LinkedIn: www.linkedin.com/in/jamo180
